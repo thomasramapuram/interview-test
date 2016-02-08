@@ -5,7 +5,7 @@ package in.orangecounty.software;
  */
 public class InterviewClass {
     public int[] calculateThreeNPlusOne(int arg1, int arg2){
+        //Change this code here
         return new int[]{1,10,20};
-
     }
 }
